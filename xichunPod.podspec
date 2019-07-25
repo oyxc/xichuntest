@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "xichunPod"
-  spec.version      = "0.0.1"
+  spec.version      = "1.0.0"
   spec.summary      = "just xichunPod."
   spec.description  = 'just a test project'
 
