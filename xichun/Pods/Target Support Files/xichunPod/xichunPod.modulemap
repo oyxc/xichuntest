@@ -1,0 +1,6 @@
+framework module xichunPod {
+  umbrella header "xichunPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

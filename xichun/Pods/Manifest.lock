@@ -1,0 +1,16 @@
+PODS:
+  - xichunPod (0.0.1)
+
+DEPENDENCIES:
+  - xichunPod (from `../`)
+
+EXTERNAL SOURCES:
+  xichunPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  xichunPod: c12fa10578c7df651d808fbfe8f67223c74b128c
+
+PODFILE CHECKSUM: a6e78f5f63b4a4f5bf30271a008fa2991a2b216d
+
+COCOAPODS: 1.7.4
